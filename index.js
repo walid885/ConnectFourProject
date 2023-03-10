@@ -4,6 +4,10 @@ document.addEventListener('DOMContentLoaded',()=>{
     const displayCurrentPlayer = document.querySelector('#current-player')
     let currentPlayer = 1 
 
+
+   
+
+
     for ( let i =0 ; i < squares.length ; i++){
         squares[i].onclick =() => {
            // alert("you have clicked square " + i)

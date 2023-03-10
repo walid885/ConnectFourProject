@@ -12,9 +12,9 @@
 }
 .player-one{
     background-color: red;
-    border-radius: 1px;
+    border-radius: 10px;
 }
 .player-two{
     background-color: green;
-    border-radius: 1px;
+    border-radius: 10px;
 }
